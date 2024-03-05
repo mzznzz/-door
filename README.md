@@ -26,7 +26,8 @@ door 만들기
 <summary>
   door 기능...
 </summary>
-   <img width="80%" src="https://github.com/mzznzz/-door/assets/138216503/6eff49db-64c9-4d14-8ca1-23c8e7fd9b85"/>
+   <img width="100%" src="https://github.com/mzznzz/-door/assets/138216503/6eff49db-64c9-4d14-8ca1-23c8e7fd9b85"/>
+
 
 
 
