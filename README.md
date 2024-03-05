@@ -24,7 +24,7 @@ door 만들기
 
 <details>
 <summary>
-  토글 제목
+  door 기능...
 </summary>
    토글 안 내용
 </details>
